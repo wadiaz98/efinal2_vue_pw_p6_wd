@@ -22,3 +22,4 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+"# efinal2_vue_pw_p6_wd" 
